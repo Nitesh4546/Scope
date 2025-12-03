@@ -1,5 +1,5 @@
 # Scope
-
+![Scope Icon](res/icon.png)
 **Scope** is a powerful screen snipping tool for Linux built with Python and CustomTkinter. It allows you to capture any part of your screen and instantly perform OCR to extract text, translate it into over 100 languages, or scan QR codes directly from your desktop.
 
 ## Features
@@ -25,10 +25,10 @@
     sudo apt install slop maim tesseract-ocr xclip
     ```
 
-// 2.  Install Python dependencies:
-   // ```bash
-   // pip install -r requirements.txt
-    //```
+2.  Install Python dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
