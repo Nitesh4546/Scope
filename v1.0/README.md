@@ -7,7 +7,7 @@ Scope is a lightweight Python application that allows users to select a region o
 ## Screenshots
 
 ![App Screenshot](./img/SCopeV1.0.png)
-*Note: Add a screenshot of the application here and name it `screenshot.png` in the `res` folder.*
+
 
 
 ## Features
